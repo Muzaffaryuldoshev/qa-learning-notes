@@ -74,11 +74,11 @@ This lab focuses on transitioning from a standard **builder mindset** to an anal
 
 ## 🏗️ Roles of QA, QC, and UAT in the SDLC
 
-| Role | Metaphor | Core Objective | Key Activities |
-| :--- | :--- | :--- | :--- |
-| **QA** *(Quality Assurance)* | The **Architect** | Process-oriented: Establishes standards and reduces defect likelihood before creation. | • Reviewing requirements<br>• Creating test strategies<br>• Defining standards<br>• Identifying risks & mapping strategies |
-| **QC** *(Quality Control)* | The **Building Inspector** | Product-oriented: Identifies defects in the actual product once built. | • Executing test cases<br>• Reviewing product against specs<br>• Inspecting outputs & verifying product |
-| **UAT** *(User Acceptance Testing)* | The **Final Buyer** | Validation-oriented: Final stage before release to ensure business value. | • Validating business requirements<br>• Supporting real user workflows<br>• Ensuring delivery of expected value |
+| Role                                | Metaphor                   | Core Objective                                                                         | Key Activities                                                                                                             |
+|:------------------------------------|:---------------------------|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| **QA** *(Quality Assurance)*        | The **Architect**          | Process-oriented: Establishes standards and reduces defect likelihood before creation. | • Reviewing requirements<br>• Creating test strategies<br>• Defining standards<br>• Identifying risks & mapping strategies |
+| **QC** *(Quality Control)*          | The **Building Inspector** | Product-oriented: Identifies defects in the actual product once built.                 | • Executing test cases<br>• Reviewing product against specs<br>• Inspecting outputs & verifying product                    |
+| **UAT** *(User Acceptance Testing)* | The **Final Buyer**        | Validation-oriented: Final stage before release to ensure business value.              | • Validating business requirements<br>• Supporting real user workflows<br>• Ensuring delivery of expected value            |
 
 ### Tester's Scope of Exploration
 Testing the application across different environments to identify failure points:
